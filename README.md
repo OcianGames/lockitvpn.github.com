@@ -1,1 +1,1 @@
-# lockitvpn.github.com
+# lockitvpn.github.io
